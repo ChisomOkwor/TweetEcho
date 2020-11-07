@@ -33,8 +33,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://imgur.com/a/6Z98AI0.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://github.com/ChisomOkwor/Flix/blob/master/TweetEcho.png" width=250><br>
 
 
 ## Open-source libraries used
