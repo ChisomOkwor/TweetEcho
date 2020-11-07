@@ -32,8 +32,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
 <a href="https://imgur.com/a/6Z98AI0.mp4">DEMO HERE... </a> 
+
+
 <img src="https://github.com/ChisomOkwor/TweetEcho/blob/master/TweetEcho.png" width=250><br>
 
 
